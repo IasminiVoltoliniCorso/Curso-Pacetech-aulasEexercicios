@@ -16,10 +16,10 @@ para i de 1 ate 10 faca
              aux <- numeros[i]
              numeros[i] <- numeros[j]
              numeros[j] <- aux
-          fimse
-     
-     fimpara
-fimpara
 
+          fimse
+     fimpara
+
+fimpara
 
 fimalgoritmo
